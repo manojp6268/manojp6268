@@ -12,8 +12,7 @@ Computer Vision · Published researcher (Elsevier, 2020)
 **Skills:** Python · SQL · Scikit-learn · PyTorch · OpenCV ·
 Power BI · AWS · Git
 
-**Looking for:** Werkstudent roles in AI/Data Science
-in the Trier–Saarbrücken–Luxembourg corridor
+**Looking for:** Werkstudent & research roles in AI/Data Science · Trier region + remote
 
 📫 manojp6268@gmail.com
 🔗 linkedin.com/in/manoj-p-a95b7b1a2
