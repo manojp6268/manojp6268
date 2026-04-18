@@ -1,16 +1,19 @@
-## Hi there 👋
+## Manoj Prakash — Data Scientist & AI Engineer
 
-<!--
-**manojp6268/manojp6268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Data Science · Universität Trier, Germany
+3+ years industry experience · Oracle Cerner · Huawei
 
-Here are some ideas to get you started:
+**Currently:** Building ML systems and deepening research in
+statistical modelling and applied AI at Trier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:** GPT-4 LLM fine-tuning · Healthcare data pipelines ·
+Computer Vision · Published researcher (Elsevier, 2020)
+
+**Skills:** Python · SQL · Scikit-learn · PyTorch · OpenCV ·
+Power BI · AWS · Git
+
+**Looking for:** Werkstudent roles in AI/Data Science
+in the Trier–Saarbrücken–Luxembourg corridor
+
+📫 manojp6268@gmail.com
+🔗 linkedin.com/in/manoj-p-a95b7b1a2
