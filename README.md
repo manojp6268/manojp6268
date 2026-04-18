@@ -1,4 +1,4 @@
-## Manoj Prakash — Data Scientist & AI Engineer
+## Manoj Prakash - Data Scientist & AI Engineer
 
 M.Sc. Data Science · Universität Trier, Germany
 3+ years industry experience · Oracle Cerner · Huawei
