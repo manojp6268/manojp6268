@@ -67,6 +67,38 @@ stack = {
 
 ---
 
+### 🫀 Heart Disease Predictor
+> Predicts whether a person has a heart disorder using classification techniques on clinical features.
+
+`Python` `Scikit-learn` `Jupyter` `Healthcare ML`
+→ [View repo](https://github.com/manojp6268/Heart-Disease)
+
+---
+
+### 👤 Employee Churn Prediction
+> Predicts whether an existing employee is likely to leave the company — useful for HR analytics and retention strategy.
+
+`Python` `Scikit-learn` `Jupyter` `Classification`
+→ [View repo](https://github.com/manojp6268/Employee-drop-off-prediction)
+
+---
+
+### 🚗 Car Price Prediction
+> Predicts car market price based on vehicle features using a RandomForest Regressor.
+
+`Python` `RandomForestRegressor` `Regression` `Jupyter`
+→ [View repo](https://github.com/manojp6268/car-price-prediction)
+
+---
+
+### 🛡️ Face Mask & Helmet Detection *(iNeuron Internship)*
+> Real-time computer vision pipelines for compliance monitoring and road safety.
+> Built under mentorship of iNeuron's Chief AI Engineer.
+
+`Python` `OpenCV` `Contour Detection` `Classification`
+
+---
+
 ## Research
 
 📘 **Book Chapter** - *"Smart Grid using IoT"*
