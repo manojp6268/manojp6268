@@ -50,6 +50,8 @@ stack = {
 
 ## Selected work
 
+---
+
 ### 🫀 VitalWatch - IoT ECG Anomaly Detection
 > ML-powered anomaly detection on real clinical ECG data (MIT-BIH Arrhythmia Database).
 > Isolation Forest vs DBSCAN · 6 engineered features · Live IoT stream simulation ·
@@ -57,7 +59,9 @@ stack = {
 > Built entirely from scratch - no tutorials, no shortcuts.
 
 `Python` `Scikit-learn` `WFDB` `Healthcare ML` `IoT` `Unsupervised ML`
-→ [View repo](https://github.com/manojp6268/vitalwatch-iot-anomaly-detectioin)
+→ [View repo](https://github.com/manojp6268/vitalwatch-iot-anomaly-detectoin)
+
+---
 
 ### 🔐 Phishing Website Classifier
 > ML pipeline that extracts 30+ URL features and classifies websites as legitimate or malicious.
@@ -138,7 +142,7 @@ ML classifiers with feature engineering to identify fraudulent web patterns.
 ## Currently
 
 - 📖 M.Sc. Data Science @ Universität Trier *(2nd semester)*
-- 🫀 Building VitalWatch V2 — Autoencoder-based ECG anomaly detection
+- 🫀 Building **VitalWatch V2** - Autoencoder-based ECG anomaly detection
 - 🔍 Seeking **Werkstudent / part-time roles** in AI, Data Science, or Data Engineering in Germany
 - 📡 Exploring thesis topics in **NLP/ Optimization / LLM evaluation**
 - 🎓 Completing **Google Advanced Data Analytics Certificate** *(Coursera)*
