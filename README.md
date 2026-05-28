@@ -50,6 +50,15 @@ stack = {
 
 ## Selected work
 
+### 🫀 VitalWatch - IoT ECG Anomaly Detection
+> ML-powered anomaly detection on real clinical ECG data (MIT-BIH Arrhythmia Database).
+> Isolation Forest vs DBSCAN · 6 engineered features · Live IoT stream simulation ·
+> 52.9% detection rate on 98.5/1.5 class-imbalanced cardiac data.
+> Built entirely from scratch - no tutorials, no shortcuts.
+
+`Python` `Scikit-learn` `WFDB` `Healthcare ML` `IoT` `Unsupervised ML`
+→ [View repo](https://github.com/manojp6268/vitalwatch-iot-anomaly-detectioin)
+
 ### 🔐 Phishing Website Classifier
 > ML pipeline that extracts 30+ URL features and classifies websites as legitimate or malicious.
 > Trained SVM & MLP models. Deployed as a live Flask web app.
@@ -104,10 +113,12 @@ stack = {
 📘 **Book Chapter** - *"Smart Grid using IoT"*
 Elsevier · Advances in Smart Grid Power Systems · 2020
 Real-time power monitoring via IoT sensor networks and distributed data processing.
+>[DOI](https://doi.org/10.1016/B978-0-12-824337-4.00006-0)
 
 📄 **Journal Article** - *"Detection and Classification of Phishing Websites"*
 Manoj P. et al. · 2021
 ML classifiers with feature engineering to identify fraudulent web patterns.
+>[DOI](https://doi.org/10.17352/tcsit.000040)
 
 ---
 
@@ -127,6 +138,7 @@ ML classifiers with feature engineering to identify fraudulent web patterns.
 ## Currently
 
 - 📖 M.Sc. Data Science @ Universität Trier *(2nd semester)*
+- 🫀 Building VitalWatch V2 — Autoencoder-based ECG anomaly detection
 - 🔍 Seeking **Werkstudent / part-time roles** in AI, Data Science, or Data Engineering in Germany
 - 📡 Exploring thesis topics in **NLP/ Optimization / LLM evaluation**
 - 🎓 Completing **Google Advanced Data Analytics Certificate** *(Coursera)*
