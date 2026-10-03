@@ -59,7 +59,7 @@ stack = {
 > Built entirely from scratch - no tutorials, no shortcuts.
 
 `Python` `Scikit-learn` `WFDB` `Healthcare ML` `IoT` `Unsupervised ML`
-→ [View repo](https://github.com/manojp6268/vitalwatch-iot-anomaly-detectoin)
+→ [View repo](https://github.com/manojp6268/vitalwatch-iot-anomaly-detection)
 
 ---
 
